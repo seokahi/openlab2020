@@ -5,4 +5,5 @@ int main()
 {
 	foo();
 	myexperimentfunction();
+	mystablefunction();
 }
