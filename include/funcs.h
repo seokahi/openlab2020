@@ -2,4 +2,6 @@
 #define __FUNCS_H__
 void foo();
 void mystablefunction();
+void myexperimentfunction();
+
 #endif

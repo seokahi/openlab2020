@@ -8,4 +8,7 @@ void foo()
 void mystablefunction()
 {
 	printf("haha");
+void myexperimentfunction()
+{
+	printf("some experiment ..\n");
 }
