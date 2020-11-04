@@ -5,3 +5,7 @@ void foo()
 {
 	printf("hello foo\n");
 }
+void mystablefunction()
+{
+	printf("haha");
+}
